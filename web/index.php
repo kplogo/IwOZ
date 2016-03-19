@@ -4,8 +4,8 @@ require_once __DIR__.'/../vendor/autoload.php';
 
 $app = new Silex\Application();
 
-$app->get('/hello', function () {
-    return 'Hello!';
-});
+
+require __DIR__ . '/../resources/config/prod.php';
+require __DIR__ . '/../src/app.php';
 
 $app->run();
