@@ -20,7 +20,12 @@
         "doctrine/dbal": ">=2.2.0,<2.4.0-dev",
         "swiftmailer/swiftmailer": "5.*",
 		"monolog/monolog": "~1.6",
-		"nesbot/Carbon": "~1.6"
 
-    }
+    },
+	"autoload": {
+		"psr-0": {
+			"App": "src/"
+		}
+	}
+
 }
