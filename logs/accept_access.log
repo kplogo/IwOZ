@@ -20,3 +20,8 @@
 37.7.197.171 - - [19/Mar/2016:17:47:44 -0400] "GET /api/v1/notes HTTP/1.1" 404 511 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
 37.7.197.171 - - [19/Mar/2016:17:47:45 -0400] "GET /api/v1/notes HTTP/1.1" 404 511 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
 37.7.197.171 - - [19/Mar/2016:17:47:51 -0400] "GET / HTTP/1.1" 500 234 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+37.7.197.171 - - [19/Mar/2016:17:53:09 -0400] "GET / HTTP/1.1" 500 234 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+37.7.197.171 - - [19/Mar/2016:17:53:10 -0400] "GET / HTTP/1.1" 500 234 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+37.7.197.171 - - [19/Mar/2016:17:54:07 -0400] "GET / HTTP/1.1" 404 2295 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+37.7.197.171 - - [19/Mar/2016:17:56:26 -0400] "GET /api/v1/notes HTTP/1.1" 404 512 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
+37.7.197.171 - - [19/Mar/2016:17:57:02 -0400] "GET /api/v1/notes HTTP/1.1" 404 512 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
