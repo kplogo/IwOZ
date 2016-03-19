@@ -6,9 +6,9 @@ return new \Phalcon\Config(array(
     'database' => array(
         'adapter'     => 'Mysql',
         'host'        => 'localhost',
-        'username'    => 'root',
-        'password'    => '',
-        'dbname'      => 'test',
+        'username'    => 'studia',
+        'password'    => 'put@2016a',
+        'dbname'      => 'studia_iwoz',
         'charset'     => 'utf8',
     ),
     'application' => array(
