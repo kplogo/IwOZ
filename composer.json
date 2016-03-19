@@ -19,7 +19,7 @@
         "symfony/twig-bridge": "~2.3",
         "doctrine/dbal": ">=2.2.0,<2.4.0-dev",
         "swiftmailer/swiftmailer": "5.*",
-		"monolog/monolog": "~1.6",
+		"monolog/monolog": "~1.6"
 
     },
 	"autoload": {
