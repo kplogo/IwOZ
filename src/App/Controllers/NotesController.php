@@ -25,6 +25,10 @@ class NotesController
     {
 
         $note = $this->getDataFromRequest($request);
+        $article = new MyWebsite\Entity\Article();
+        $article->setContent('Hello world!');
+        $app['db.orm.em']->persist($article);
+        $app['db.orm.em']->flush();
         return new JsonResponse(array("id" => $this->notesService->save($note)));
 
     }

@@ -7,6 +7,7 @@ class NotesService extends BaseService
 
     public function getAll()
     {
+        $app['db.orm.em']->createQuery('SELECT a FROM App\Model\User a');
         return $this->db->fetchAll("SELECT * FROM notes");
     }
 
