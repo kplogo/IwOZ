@@ -19,7 +19,6 @@
         "doctrine/dbal": "~2.4.0",
         "swiftmailer/swiftmailer": "5.*",
 		"monolog/monolog": "~1.6"
-        "taluu/doctrine-orm-provider": "1.0.*"
     },
 	"autoload": {
 		"psr-0": {
