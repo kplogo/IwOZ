@@ -11,6 +11,6 @@ class User
      */
     private $id;
 
-    /** @Column(type="text") */
-    private $content;
+    /** @Column(type="text", name="first_name") */
+    private $firstName;
 }
